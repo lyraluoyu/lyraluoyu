@@ -1,5 +1,5 @@
 # Hi there, I'm Luo Yu. 👋
-I am a Junior student at **Shanghai Jiao Tong University**.
+I am a Junior student studying Information Engineering and French at **Shanghai Jiao Tong University**.
 
 ### Research & Projects
 - **DFTAgent:** Developing an LLM-driven optimization framework for Density Functional Theory.
