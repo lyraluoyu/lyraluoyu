@@ -7,8 +7,7 @@ I am a Junior student at **Shanghai Jiao Tong University**.
 
 ### Awards & Honors
 - Meritorious Award (First Prize) in the 2024 Interdisciplinary Contest in Modeling
-- Dean's Scholarship Recipient
-- First Prize Academic Scholarship Recipient
+- Dean's Scholarship & First Prize Academic Scholarship
 
 ### Skills & Interests
 - **Languages:** Python, C++, C
