@@ -1,4 +1,4 @@
-# Hi there, I'm Luo Yu. 👋
+# Hi there, I'm Yu Luo. 👋
 I am a Junior student studying Information Engineering and French at **Shanghai Jiao Tong University**.
 
 ### Research & Projects
